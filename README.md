@@ -1,6 +1,7 @@
 # OcelotExamples
 This Repository contains the Source code from the various Ocelot Posts made by HyperTrends Global Inc. (https://www.hypertrends.com).
 
+POST 1 - Ocelot API Gateway
 The Posts can be found here:
 https://medium.com/hypertrends/microservices-api-gateways-ocelot-for-net-core-video-8bbd4ed3be8f
 
